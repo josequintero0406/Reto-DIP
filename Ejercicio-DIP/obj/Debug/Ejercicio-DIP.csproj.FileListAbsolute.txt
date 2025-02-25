@@ -1,0 +1,7 @@
+C:\Users\josem\source\repos\Ejercicio-DIP\Ejercicio-DIP\bin\Debug\Ejercicio-DIP.exe.config
+C:\Users\josem\source\repos\Ejercicio-DIP\Ejercicio-DIP\bin\Debug\Ejercicio-DIP.exe
+C:\Users\josem\source\repos\Ejercicio-DIP\Ejercicio-DIP\bin\Debug\Ejercicio-DIP.pdb
+C:\Users\josem\source\repos\Ejercicio-DIP\Ejercicio-DIP\obj\Debug\Ejercicio-DIP.csproj.AssemblyReference.cache
+C:\Users\josem\source\repos\Ejercicio-DIP\Ejercicio-DIP\obj\Debug\Ejercicio-DIP.csproj.CoreCompileInputs.cache
+C:\Users\josem\source\repos\Ejercicio-DIP\Ejercicio-DIP\obj\Debug\Ejercicio-DIP.exe
+C:\Users\josem\source\repos\Ejercicio-DIP\Ejercicio-DIP\obj\Debug\Ejercicio-DIP.pdb
